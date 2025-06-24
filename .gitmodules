@@ -1,0 +1,6 @@
+[submodule "src/joystick-robot-sim"]
+	path = src/joystick-robot-sim
+	url = git@github.com:t-tang-rfc/joystick-robot-sim.git
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:t-tang-rfc/pd-imagine.git

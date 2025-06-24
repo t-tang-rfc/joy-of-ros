@@ -49,3 +49,9 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# --- private files
+.private.*
+
+# --- auxiliary files
+.vscode/
